@@ -1,3 +1,3 @@
 function masuk() {
-    window.location.href = "index.html"
+    window.location.href = "isi.html"
 }
